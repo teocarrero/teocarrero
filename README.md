@@ -5,8 +5,7 @@ Soc un estudiant de grau superior ASIX de divuit anys, interessat en el sector d
 
 ## Tecnologies i eines
 
-- HTML <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/af79c911-ad74-4439-b3b6-77fe0e9a34d0" />
-
+- HTML 
 - CSS
 - JAVASCRIPT
 - VIRTUAL BOX
