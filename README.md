@@ -16,3 +16,7 @@ Soc un estudiant de grau superior ASIX de divuit anys, interessat en el sector d
 - Pàgina web CV Teo Carrero Valls
 - Muntatge d'un Ordinador
 - Disseny d'una base de dades per un local petit
+
+## Linkedin
+
+- https://www.linkedin.com/in/teo-carrero-valls-b83723320/
